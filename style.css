@@ -6,7 +6,7 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('images/heroImage.jpeg');
+    background: url('images/help.png');
     background-size:cover;
     position:relative;
 }
@@ -23,7 +23,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
+    color: black;
 }
 
 /* spacing on all sections */
@@ -53,10 +53,10 @@
     text-align: center;
 }
 .card:hover .servicesIcon {
-    color: #008000;
+    color: rgb(23, 123, 204);
 }
 .servicesText:hover {
-    border: 1px solid #008000;
+    border: 1px solid lightblue;
 }
 
 /* social media icons styling */
@@ -64,14 +64,14 @@
     font-size: 36px;
     cursor: pointer;
 }
-.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
-    color: #008000;
+.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover {
+    color: #412382;
 }
 .fab {
     color: #000000;
 }
 /* footer styling */
 #footer {
-    background-color: #808080;
+    background-color: #2c302e;
     text-align: center;
 }
