@@ -1,2 +1,2 @@
 # meri_back
-hackTU 3.0 submission
+hackTU 3.0 hackathon submission
